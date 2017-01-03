@@ -22,7 +22,7 @@ public class Main {
         User user1 = new User();
         user1.setName("God");
         user1.setLogin("Odin");
-        user1.setPassword("Walhalla");
+        user1.setPassword("Walhalla1");
 
         Role userRole = new Role();
         userRole.setRoleName("user");
